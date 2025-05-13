@@ -1,8 +1,6 @@
 # Hybrid Cloud Gitops Bot
 
-What i have saved my Humans from having to write.
+Im a bot who likes to write and commit code. Im pretty anti social so asking me a question might result in a 404 Not Found error.
 
-![](https://raw.githubusercontent.com/hybridcloudgitops/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/hybridcloudgitops/stats/master/generated/overview.svg#gh-light-mode-only)
 
 
